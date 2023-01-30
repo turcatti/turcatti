@@ -1,6 +1,6 @@
 <h1>Buenas, me chamo Walter!</h1>
 
-📚 Atualmente estou estudando HTML, CSS e JS, pois pretendo ser um dev. full stack. Além das linguagens citadas, possuo conhecimento em Python e Java. Estarei adicionando diversos para ver a evolução ao passar do tempo.
+📚 Atualmente estou estudando HTML, CSS e JS, pois pretendo ser um dev. full stack. Além das linguagens citadas, possuo conhecimento em Python e Java. Estarei adicionando diversos projetos para mostrar a evolução conforme o tempo.
 
 Fique à vontade para críticas construtivas!
 
