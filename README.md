@@ -1,6 +1,6 @@
 <h1>Buenas, me chamo Walter!</h1>
 
-📚 Atualmente estou estudando HTML, CSS e JS. Além das linguagens citadas, possuo conhecimento em Python e Java. Estarei adicionando diversos projetos para mostrar a evolução conforme o tempo.
+📚 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em backend. Atualmente estou estudando Python e Java, porém tenho conhecimento em HTML, CSS e JS. Estarei adicionando diversos projetos para mostrar a evolução conforme o tempo.
 
 Fique à vontade para críticas construtivas!
 
